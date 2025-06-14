@@ -1,0 +1,24 @@
+Start testing: Jun 14 12:28 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: FitnessTests
+1/1 Test: FitnessTests
+Command: "C:/Users/daniil/Desktop/Cplus_project/build/tests/runTests.exe"
+Directory: C:/Users/daniil/Desktop/Cplus_project/build/tests
+"FitnessTests" start time: Jun 14 12:28 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[doctest] doctest version is "2.4.12"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases:  4 |  4 passed | 0 failed | 0 skipped
+[doctest] assertions: 10 | 10 passed | 0 failed |
+[doctest] Status: SUCCESS!
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FitnessTests" end time: Jun 14 12:28 RTZ 2 (çèìà)
+"FitnessTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 14 12:28 RTZ 2 (çèìà)

@@ -1,0 +1,10 @@
+INPUT = src
+RECURSIVE = YES
+OUTPUT_DIRECTORY = docs
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+EXTRACT_ALL = YES
+EXTRACT_PRIVATE = NO
+EXTRACT_STATIC = YES
+PROJECT_NAME = "Фитнес-дневник"
+PROJECT_BRIEF = "Программа для учёта тренировок и здоровья"

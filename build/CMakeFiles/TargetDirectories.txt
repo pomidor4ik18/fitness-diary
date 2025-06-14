@@ -1,0 +1,8 @@
+C:/Users/daniil/Desktop/Cplus_project/build/CMakeFiles/fitness-diary.dir
+C:/Users/daniil/Desktop/Cplus_project/build/CMakeFiles/test.dir
+C:/Users/daniil/Desktop/Cplus_project/build/CMakeFiles/edit_cache.dir
+C:/Users/daniil/Desktop/Cplus_project/build/CMakeFiles/rebuild_cache.dir
+C:/Users/daniil/Desktop/Cplus_project/build/tests/CMakeFiles/runTests.dir
+C:/Users/daniil/Desktop/Cplus_project/build/tests/CMakeFiles/test.dir
+C:/Users/daniil/Desktop/Cplus_project/build/tests/CMakeFiles/edit_cache.dir
+C:/Users/daniil/Desktop/Cplus_project/build/tests/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+push-ups 10 3
+squats 15 2

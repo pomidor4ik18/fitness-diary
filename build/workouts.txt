@@ -1,0 +1,2 @@
+push-ups 5 4
+deadlift 5 4
